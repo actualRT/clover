@@ -1,0 +1,25 @@
+html {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.row {
+    padding-top: 2em;
+}
+
+.h1 {
+    padding-top: 1em;
+}
+
+div col.btn.btn-success {
+    justify-content: center;
+}
+
+h3 {
+    text-align: center;
+    margin-top: .5em;
+}
+
+img {
+    padding-top: 1.5em;
+}
